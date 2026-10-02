@@ -1,0 +1,16 @@
+{
+  "name": "edu-survey",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EduSurvey — 교육만족도 설문앱 (레퍼런스HRD)",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
